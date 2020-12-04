@@ -1,3 +1,3 @@
 forever(function () {
-    pause(100)
+    pause(sdf)
 })
